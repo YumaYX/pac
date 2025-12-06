@@ -12,11 +12,11 @@ program <file> <trigger-text> <keyword>
 ```
 
 ### Arguments
-- <file>
+- file
   - Path to the text file to read
-- <trigger-text>
+- trigger-text
   - Marker used to detect and start a new parent node
-- <keyword>
+- keyword
   - Used to filter which parent nodes will be printed
 
 ## install
